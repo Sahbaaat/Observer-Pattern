@@ -1,1 +1,1 @@
-# Observer-Pattern
+# Observer pattern
