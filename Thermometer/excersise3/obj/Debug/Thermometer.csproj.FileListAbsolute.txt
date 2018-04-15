@@ -1,0 +1,6 @@
+C:\Users\ICC\Documents\GIt HUB\Tamrin\Tamrin\Thermometer\excersise3\bin\Debug\excersise3.exe.config
+C:\Users\ICC\Documents\GIt HUB\Tamrin\Tamrin\Thermometer\excersise3\bin\Debug\excersise3.exe
+C:\Users\ICC\Documents\GIt HUB\Tamrin\Tamrin\Thermometer\excersise3\bin\Debug\excersise3.pdb
+C:\Users\ICC\Documents\GIt HUB\Tamrin\Tamrin\Thermometer\excersise3\obj\Debug\Thermometer.csprojResolveAssemblyReference.cache
+C:\Users\ICC\Documents\GIt HUB\Tamrin\Tamrin\Thermometer\excersise3\obj\Debug\excersise3.exe
+C:\Users\ICC\Documents\GIt HUB\Tamrin\Tamrin\Thermometer\excersise3\obj\Debug\excersise3.pdb

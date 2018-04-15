@@ -1,0 +1,27 @@
+c:\users\sahba\documents\visual studio 2015\Projects\excersise3\excersise3\bin\Debug\excersise3.exe.config
+c:\users\sahba\documents\visual studio 2015\Projects\excersise3\excersise3\obj\Debug\excersise3.csprojResolveAssemblyReference.cache
+c:\users\sahba\documents\visual studio 2015\Projects\excersise3\excersise3\bin\Debug\excersise3.exe
+c:\users\sahba\documents\visual studio 2015\Projects\excersise3\excersise3\bin\Debug\excersise3.pdb
+c:\users\sahba\documents\visual studio 2015\Projects\excersise3\excersise3\obj\Debug\excersise3.exe
+c:\users\sahba\documents\visual studio 2015\Projects\excersise3\excersise3\obj\Debug\excersise3.pdb
+C:\Users\ICC\Desktop\projects\excersise3\excersise3\bin\Debug\excersise3.exe.config
+C:\Users\ICC\Desktop\projects\excersise3\excersise3\obj\Debug\excersise3.exe
+C:\Users\ICC\Desktop\projects\excersise3\excersise3\obj\Debug\excersise3.pdb
+C:\Users\ICC\Desktop\projects\excersise3\excersise3\bin\Debug\excersise3.exe
+C:\Users\ICC\Desktop\projects\excersise3\excersise3\bin\Debug\excersise3.pdb
+C:\Users\ICC\Desktop\projects\excersise3\excersise3\obj\Debug\excersise3.csprojResolveAssemblyReference.cache
+C:\Users\ICC\Desktop\Tamrin\excersise3\excersise3\bin\Debug\excersise3.exe.config
+C:\Users\ICC\Desktop\Tamrin\excersise3\excersise3\obj\Debug\excersise3.exe
+C:\Users\ICC\Desktop\Tamrin\excersise3\excersise3\obj\Debug\excersise3.pdb
+C:\Users\ICC\Desktop\Tamrin\excersise3\excersise3\bin\Debug\excersise3.exe
+C:\Users\ICC\Desktop\Tamrin\excersise3\excersise3\bin\Debug\excersise3.pdb
+C:\Users\ICC\Desktop\Tamrin\excersise3\excersise3\obj\Debug\excersise3.csprojResolveAssemblyReference.cache
+C:\Users\ICC\Desktop\Tamrin\Thermometer\excersise3\bin\Debug\excersise3.exe.config
+C:\Users\ICC\Desktop\Tamrin\Thermometer\excersise3\obj\Debug\excersise3.exe
+C:\Users\ICC\Desktop\Tamrin\Thermometer\excersise3\obj\Debug\excersise3.pdb
+C:\Users\ICC\Documents\GIt HUB\Tamrin\Tamrin\Thermometer\excersise3\bin\Debug\excersise3.exe.config
+C:\Users\ICC\Documents\GIt HUB\Tamrin\Tamrin\Thermometer\excersise3\obj\Debug\excersise3.exe
+C:\Users\ICC\Documents\GIt HUB\Tamrin\Tamrin\Thermometer\excersise3\obj\Debug\excersise3.pdb
+C:\Users\ICC\Documents\GIt HUB\Tamrin\Tamrin\Thermometer\excersise3\bin\Debug\excersise3.exe
+C:\Users\ICC\Documents\GIt HUB\Tamrin\Tamrin\Thermometer\excersise3\bin\Debug\excersise3.pdb
+C:\Users\ICC\Documents\GIt HUB\Tamrin\Tamrin\Thermometer\excersise3\obj\Debug\excersise3.csprojResolveAssemblyReference.cache
